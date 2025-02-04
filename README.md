@@ -5,3 +5,7 @@
 
 ### Simulation ###
 1. Code file (lab1.v)
+2. Constraint file (.xdc)
+
+### Diagram ###
+1. DsdLab.drawio
