@@ -26,7 +26,7 @@ lab_4/
 1. Clone the repository:
    ```bash
    git clone https://github.com/yourusername/lab_4.git
-   cd lab_4
+   cd lab_4b
    ```
 2. Open the RTL files in your preferred HDL editor (Vivado).
 3. Run simulations using the testbench to verify functionality.
