@@ -8,7 +8,7 @@ This repository contains the files and documentation for **Lab 4 part b**. The p
 
 ## Repository Structure
 ```
-lab_4/
+lab_4b/
 │-- rtl/          # Contains RTL (Register Transfer Level) design files
 │-- testbench/    # Includes testbench files for verification
 │-- docs/         # Documentation (e.g., Draw.io diagrams, design specs)
@@ -25,7 +25,7 @@ lab_4/
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/lab_4.git
+   git clone https://github.com/yourusername/lab_4b.git
    cd lab_4b
    ```
 2. Open the RTL files in your preferred HDL editor (Vivado).
