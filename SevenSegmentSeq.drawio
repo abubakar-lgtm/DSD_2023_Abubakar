@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.0" pages="4">
   <diagram name="Page-1" id="sowGGKyg7QWPcVTl7CEb">
-    <mxGraphModel dx="521" dy="220" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
+    <mxGraphModel dx="1493" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="1700" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -223,9 +223,11 @@
             <mxPoint x="10" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="W22TKgM2LkEj-nDok4LA-22" value="Priority&lt;div&gt;Mux&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
-          <mxGeometry x="680" y="150" width="60" height="120" as="geometry" />
-        </mxCell>
+        <UserObject label="Priority&lt;div&gt;Mux&lt;/div&gt;" link="data:page/id,Pcn7V3lPO6JDcD1u_03b" id="W22TKgM2LkEj-nDok4LA-22">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;direction=south;" vertex="1" parent="1">
+            <mxGeometry x="680" y="150" width="60" height="120" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="W22TKgM2LkEj-nDok4LA-23" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="W22TKgM2LkEj-nDok4LA-22">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="470" y="180" as="sourcePoint" />
